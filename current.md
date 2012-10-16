@@ -1,4 +1,4 @@
-The Scribus Newsletter
+_The Scribus Newsletter_
 
 15.10 - 21.10.2012
 
