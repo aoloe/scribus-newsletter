@@ -1,5 +1,9 @@
-14.10.2012: franz has added a timer showing the time remaining until the next autosave. it has been made opt-in.
+The Scribus Newsletter
 
-16.10.2012: cezary and jean-luc are doing the last tests for getting the footnotes patch ready for being committed
+15.10 - 21.10.2012
 
-19.10.2012: ale and silvia are leading a translation sprint for the scribus free manual (http://graficalibera.org/attivita/)
+14.10.2012: Franz has added a timer showing the time remaining until the next autosave. It has been made opt-in.
+
+16.10.2012: Cezary and Jean-Luc are doing the last tests for getting the footnotes patch ready for being committed
+
+19.10.2012: Ale and Silvia are leading the translation sprint into Italian for the Scribus free manual (http://graficalibera.org/attivita/)
