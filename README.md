@@ -1,16 +1,15 @@
-The Scribus Newsletter
-==================
+# The Scribus Newsletter
 
 Weekly newsletter about scribus development
 
 If you want to add items, just fork it and make pull requests.
 
-#Helpful resources:
+##Helpful resources:
 
 - http://lists.scribus.net/pipermail/scribus-commit/
 - http://bugs.scribus.net/view\_all\_bug\_page.php
 
-#Possible sections:
+##Possible sections:
 
 - Out of the presses
 - New features
@@ -18,7 +17,7 @@ If you want to add items, just fork it and make pull requests.
 - Ongoing development
 - Ongoing discussions
 
-#How to contribute
+##How to contribute
 - Go to http://github.com .
 - If you don't have an account click on the green link "Sign up for free" and create an account.
 - Go to https://github.com/aoloe/scribus-newsletter/ and for fork the repository<br>
