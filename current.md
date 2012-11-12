@@ -10,8 +10,10 @@ _The Scribus Newsletter_
 
 - Craig moved the internal language definition to use language codes instead of language names.
 
-- Cezary and Jean-Luc are doing the last tests for getting the footnotes patch ready for being committed.
+- Cezary's footnotes have been being committed to the trunk.
 
 - Ale and Manuel are working on a "Scribus Planet", a feed aggregator collecting posts about Scribus.
 
 - Ale and Silvia are leading the translation sprint into Italian for the Scribus free manual (http://graficalibera.org/attivita/).
+
+- Franz has added the support for annotations and form elements when loading PDFs
