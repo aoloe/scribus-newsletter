@@ -8,6 +8,7 @@ If you want to add items, just fork it and make pull requests.
 #Helpful resources:
 
 - http://lists.scribus.net/pipermail/scribus-commit/
+- http://bugs.scribus.net/view\_all\_bug\_page.php
 
 #Possible sections:
 
@@ -27,3 +28,5 @@ If you want to add items, just fork it and make pull requests.
   ![edit button](https://a248.e.akamai.net/camo.github.com/911659f61e808a2f1d477e06ba8e356a7982d951/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303831352d6266726d6479663874746a3261696939377862373731323439352e706e67)
 - Once you have finished editing the file, just make a "pull request" (there is a button for it), which
   will notify me that there I need to integrate your contribution into the Newsletter
+
+Of course, if you know about git and github, after having forked the repository,  you can edit your files locally and then make a pull request.
