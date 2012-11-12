@@ -1,6 +1,9 @@
 _The Scribus Newsletter_
 
-15.10 - 21.10.2012
+This a new try at publishing a Scribus Newsletter. In the last month, I've been taking notes online about
+what has happened in the Scribus community.
+
+15.10 - 12.11.2012
 
 - Franz has added a timer showing the time remaining until the next autosave. It has been made opt-in.
 
