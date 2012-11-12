@@ -4,7 +4,7 @@ _The Scribus Newsletter_
 
 - Franz has added a timer showing the time remaining until the next autosave. It has been made opt-in.
 
-- Some work by Fran on the tables:
+- Some work by Franz on the tables:
   - disabling the shape tab of the PP.
   - resizing the cells when the table size changes.
 
@@ -17,3 +17,5 @@ _The Scribus Newsletter_
 - Ale and Silvia are leading the translation sprint into Italian for the Scribus free manual (http://graficalibera.org/attivita/).
 
 - Franz has added the support for annotations and form elements when loading PDFs
+
+
