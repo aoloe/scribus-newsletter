@@ -1,4 +1,4 @@
-scribus-newsletter
+The Scribus Newsletter
 ==================
 
 Weekly newsletter about scribus development
