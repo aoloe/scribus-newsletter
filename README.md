@@ -18,7 +18,8 @@ If you want to add items, just fork it and make pull requests.
 - Ongoing discussions
 
 ##How to contribute
-- Go to http://github.com .
+
+- Go to <http://github.com>.
 - If you don't have an account click on the green link "Sign up for free" and create an account.
 - Go to https://github.com/aoloe/scribus-newsletter/ and for fork the repository<br>
   ![fork button](https://github.s3.amazonaws.com/docs/bootcamp_3_fork.jpg)
