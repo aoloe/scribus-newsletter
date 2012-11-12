@@ -6,8 +6,8 @@ If you want to add items, just fork it and make pull requests.
 
 ##Helpful resources:
 
-- http://lists.scribus.net/pipermail/scribus-commit/
-- http://bugs.scribus.net/view\_all\_bug\_page.php
+- <http://lists.scribus.net/pipermail/scribus-commit/>
+- <http://bugs.scribus.net/view_all_bug_page.php>
 
 ##Possible sections:
 
