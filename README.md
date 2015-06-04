@@ -2,6 +2,14 @@
 
 <strike>Weekly</strike> Monthly newsletter about scribus development
 
+The newsletter will be translated in multiple languages and published on
+
+- The Scribus mailing list (english)
+- http://impagina.org (english)
+- http://scribus-user.de/forum (german)
+- http://www.linuxgraphic.org/forums/viewforum.php?f=20 (french)
+- ...
+
 If you want to add items, just fork it and make pull requests.
 
 ## Helpful resources:
