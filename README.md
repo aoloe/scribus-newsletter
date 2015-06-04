@@ -1,6 +1,6 @@
 # The Scribus Newsletter
 
-<strike>Weekly</strike> Monthly newsletter about scribus development
+<strike>Weekly</strike> Monthly newsletter about the Scribus <strike>development</strike> development, the new features and all the nice things published with it.
 
 The newsletter will be translated in multiple languages and published on
 
@@ -46,6 +46,8 @@ There will be one ticket for each issue of the newsletter.
 You can add your contributions in there or learn how to use Github to edit and push the files.
 
 Since it's not possible to upload files to the issue tracker -- if you're not cloning the repository locally -- you will have to make the files available in some other way on the net and link them from the the specific ticket.
+
+Contributions can be in any language.
 
 ### How to use Github
 
