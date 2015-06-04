@@ -1,6 +1,6 @@
 # The Scribus Newsletter
 
-<stroke>Weekly</stroke> Monthly newsletter about scribus development
+<strike>Weekly</strike> Monthly newsletter about scribus development
 
 If you want to add items, just fork it and make pull requests.
 
