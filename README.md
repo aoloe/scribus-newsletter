@@ -1,4 +1,4 @@
-# The Scribus Newsletter
+# The Scribus Community Newsletter
 
 <strike>Weekly</strike> Monthly newsletter about the Scribus <strike>development</strike> development, the new features and all the nice things published with it.
 
